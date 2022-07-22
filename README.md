@@ -65,8 +65,6 @@
 -   ### Avid investor and finance guy 📈
 -   ### Professional weeb 😨
 -   ### C++ competitive programmer ✅
--   ### Recreational basketball player 🏀
--   ### Minecraft Enthusiast 🏡
 
 </br>
 
