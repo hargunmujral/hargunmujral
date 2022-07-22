@@ -1,8 +1,13 @@
-# Hi! 👋
+<div align='center'>
+
+# Hi! I'm Hargun👋
+
+</div>
+
 <div align='center'>
 <img src="./icons/self-compressed.png" width="800px">
 
-### I'm Hargun, and I study Software Engineering at the University of Waterloo. 📚
+### I study Software Engineering at the University of Waterloo. 📚
 
 </div>
 
