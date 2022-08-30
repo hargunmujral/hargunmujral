@@ -49,6 +49,7 @@
 
 ## Recent Personal projects ⚡
 
+-   ### [Python Trading Bot](https://github.com/hargunmujral/python-trading-bot)
 -   ### [SafeSurrey](https://github.com/hargunmujral/SafeSurrey)
 -   ### [Neural Network Project](https://github.com/hargunmujral/Neural-Network-Project)
 -   ### [Heart Health Prediction](https://github.com/hargunmujral/Heart-Failure-Prediction)
