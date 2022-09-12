@@ -5,7 +5,7 @@
 </div>
 
 <div align='center'>
-<img src="./icons/self-compressed.png" width="800px">
+<img src="./icons/self-compressed.png" width="800px" height="200px">
 
 ### I study Software Engineering at the University of Waterloo. 📚
 
