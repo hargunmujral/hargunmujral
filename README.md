@@ -40,7 +40,7 @@
 
 <div align="center">
 <img width="390" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hargunmujral&hide=makefile,powershell&layout=compact&langs_count=10&theme=dark" />
-<img width="390" src="https://github-profile-trophy.vercel.app/?username=hargunmujral&row=2&column=3&theme=darkhub&title=Followers,Repositories,Stars,PullRequest,Commit,MultiLanguage" />
+<img width="390" src="https://graphs.insomnizac.xyz/api/wakatime/hmujral" />
 <img width="390" src='https://github-readme-streak-stats.herokuapp.com/?user=hargunmujral&theme=dark'/>
 <img width="390" src="https://github-readme-stats.vercel.app/api?username=hargunmujral&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </div>
