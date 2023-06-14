@@ -9,9 +9,7 @@
 
 ### I study Software Engineering at the University of Waterloo. 📚
 
-### Passionate about applying Machine Learning to create societal impact 🤖
-
-### Interning at StratumAI and contracting for SWR Innovation Lab 💻
+### I'm passionate about applying the intersection of Machine Learning and Software Engineering to create societal impact 🤖
 
 </div>
 
