@@ -81,12 +81,11 @@
 
 </br>
 
-## Beyond Projects ✌️
+## Other Interests ✌️
 
 - ### Math nerd ➗
 - ### EDM Fanatic 🎶
-- ### Avid investor and finance guy 📈
-- ### Professional weeb 😨
+- ### Machine Learning Researcher 📈
 - ### C++ competitive programmer ✅
 
 </br>
