@@ -50,48 +50,38 @@
 
 </div>
 
-</br>
 
-## Github statistics 💻
+## Recent Open-Source Personal projects ⚡
 
-<div align="center">
-<img width="390" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hargunmujral&hide=makefile,powershell&layout=compact&langs_count=10&theme=dark" />
-<img width="390" src="https://graphs.insomnizac.xyz/api/wakatime/hmujral" />
-<img width="390" src='https://github-readme-streak-stats.herokuapp.com/?user=hargunmujral&theme=dark'/>
-<img width="390" src="https://github-readme-stats.vercel.app/api?username=hargunmujral&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
-</div>
+- [SSH Docker Pipeline](https://github.com/zrwaite/SSHDockerPipeline)
+- [X-Ray Tooling](https://github.com/WAT-ai/X-Ray-Tooling)
+- [Simplex Calculator](https://github.com/hargunmujral/Simplex-Calculator)
+- [Prostate Cancer Prediction](https://github.com/WAT-ai/medical-image-processing)
 
-</br>
 
-## Recent Personal projects ⚡
-
-- ### [SSH Docker Pipeline](https://github.com/zrwaite/SSHDockerPipeline)
-- ### [Python Trading Bot](https://github.com/hargunmujral/python-trading-bot)
-- ### [SafeSurrey](https://github.com/hargunmujral/SafeSurrey)
-- ### [Neural Network Project](https://github.com/hargunmujral/Neural-Network-Project)
-- ### [Heart Health Prediction](https://github.com/hargunmujral/Heart-Failure-Prediction)
+Note: Some of my projects are closed-source due to data sensitivity and contract involvement. If you would like more information, feel free to schedule a meeting with me.
 
 </br>
 
 ## Hackathons 🏆
 
-- ### _Best use of DigitalOcean_ - FreyHacks 2022: "[SumFun](https://devpost.com/software/sumfun)"
-- ### _Participant_ - Hack The North 2021: "[Tax Auto](https://devpost.com/software/tax-auto)"
-- ### _Most Creative Hack_ - Waterloo SE26 Mini Hackathon: "[Goose Genocide](https://devpost.com/software/goose-genocide)"
+- _Best use of DigitalOcean_ - FreyHacks 2022: "[SumFun](https://devpost.com/software/sumfun)"
+- _Participant_ - Hack The North 2021: "[Tax Auto](https://devpost.com/software/tax-auto)"
+- _Most Creative Hack_ - Waterloo SE26 Mini Hackathon: "[Goose Genocide](https://devpost.com/software/goose-genocide)"
 
 </br>
 
 ## Other Interests ✌️
 
-- ### Math nerd ➗
-- ### EDM Fanatic 🎶
-- ### Machine Learning Researcher 📈
-- ### C++ competitive programmer ✅
+- Math nerd ➗
+- EDM Fanatic 🎶
+- Machine Learning Researcher 📈
+- Competitive programmer ✅
 
 </br>
 
 ## Socials 📫
 
-- ### [LinkedIn](https://www.linkedin.com/in/hargun-mujral/)
-- ### [Devpost](https://devpost.com/hargunmujral)
-- ### [Instagram](https://www.instagram.com/hargun.mu/)
+- [LinkedIn](https://www.linkedin.com/in/hargun-mujral/)
+- [Devpost](https://devpost.com/hargunmujral)
+- [Instagram](https://www.instagram.com/hargun.mu/)
