@@ -2,11 +2,6 @@
 
 # Hi! I'm Hargun👋
 
-</div>
-
-<div align='center'>
-<img src="./icons/group-pic-labelled.png" width="800px">
-
 ### I study Software Engineering at the University of Waterloo. 📚
 
 ### I'm passionate about applying the intersection of Machine Learning and Software Engineering to create societal impact 🤖
