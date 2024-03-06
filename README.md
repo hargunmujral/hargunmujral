@@ -48,10 +48,10 @@
 
 ## Recent Open-Source Personal projects ⚡
 
-- [SSH Docker Pipeline](https://github.com/zrwaite/SSHDockerPipeline)
-- [X-Ray Tooling](https://github.com/WAT-ai/X-Ray-Tooling)
-- [Simplex Calculator](https://github.com/hargunmujral/Simplex-Calculator)
+- [X-Care Rehabilitation Agent](https://github.com/WAT-ai/X-Ray-Tooling)
 - [Prostate Cancer Prediction](https://github.com/WAT-ai/medical-image-processing)
+- [SSH Docker Pipeline](https://github.com/zrwaite/SSHDockerPipeline)
+- [Simplex Calculator](https://github.com/hargunmujral/Simplex-Calculator)
 
 
 Note: Some of my projects are closed-source due to data sensitivity and contract involvement. If you would like more information, feel free to schedule a meeting with me.
