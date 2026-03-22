@@ -10,6 +10,8 @@ I learnt some cool stuff at Waterloo. My favorite things included:
 - peptide spectra inference feels a bit like next-sequence prediction for proteins
 - the expressive power of the lambda calculus, and what makes Conway's Game of Life Turing complete
 
+I built the [ai-powered captions](https://x.com/HargunMujral/status/1818688402965119236) system at X, the async funtionality of [distributed GPU training](https://docs.databricks.com/aws/en/machine-learning/ai-runtime/distributed-training) at Databricks Mosaic, and some private work at a quantitative finance firm.
+
 Recently, I've been exploring ML Inference, particularly in systems that make models faster, cheaper and easier to serve at scale.
 
 Here's some cool papers I think you should check out: 
