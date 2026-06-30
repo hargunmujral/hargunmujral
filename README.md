@@ -1,6 +1,6 @@
 **Hi, I'm Hargun Mujral**
 
-I research, build software sometimes, and enjoy talking to new people. My website is at [mujral.com](mujral.com)
+I research, build software sometimes, and enjoy talking to new people. My website is at [mujral.com](https://www.mujral.com)
 
 I learnt some cool stuff at Waterloo. My favorite things included:
 - how take-home assignments became obsolete over the course of my degree
